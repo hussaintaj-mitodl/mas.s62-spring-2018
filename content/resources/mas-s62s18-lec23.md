@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: ''
-file: /media/courses/mas-s62-cryptocurrency-engineering-and-design-spring-2018/54d7055f59c139361265af365db80f02_MAS-S62S18-lec23.pdf
+file: /courses/mas-s62-cryptocurrency-engineering-and-design-spring-2018/54d7055f59c139361265af365db80f02_MAS-S62S18-lec23.pdf
 file_size: 108699
 file_type: application/pdf
 learning_resource_types:
